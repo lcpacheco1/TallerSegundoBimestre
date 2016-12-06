@@ -1,0 +1,12 @@
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+	Comercial Ventas y Reventas
+Nombre: Liz
+Ciudad: Loja
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+Producto		Cant		Precio
+Arroz     		3		7,50
+Aceite    		2		2,60
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+			Subtotal: 10,10
+			IVA: 1,41
+			TOTAL: 11,51
